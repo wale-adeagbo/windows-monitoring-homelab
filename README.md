@@ -83,8 +83,9 @@ Designed and implemented an Active Directory environment with a domain controlle
 
 ## Related Work
 
-* IT Incident Response Playbook
-  *(Defines incident handling processes and can be integrated with monitoring alerts and infrastructure projects)*
+## Related Work
+
+- [IT Incident Response Playbook](https://github.com/wale-adeagbo/Incident-Response-Playbook)  - which defines incident handling processes and complements the monitoring and infrastructure projects in this homelab.
 
 ---
 
